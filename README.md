@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# udemy_android_template_bottomnavi
-안드로이드 플로 클론 1주차에 필요한 템플릿입니다.
-=======
 # 6th_Android_Study
 항공대 UMC 6기 Android 파트 스터디
 
@@ -19,4 +15,3 @@
 [Test] : 테스트 코드, 리펙토링 테스트 코드 추가
 
 [Chore] : 빌드 업무 수정, 패키지 매니저 수정
->>>>>>> 6779231a0301d56fa4286726c3583df312920dd7
