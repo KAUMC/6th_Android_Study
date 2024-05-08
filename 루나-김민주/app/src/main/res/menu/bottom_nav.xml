@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fragment_home"
+        android:title="홈"
+        android:icon="@drawable/ic_bottom_home_no_select"
+        app:showAsAction="always"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/fragment_look"
+        android:title="둘러보기"
+        android:icon="@drawable/ic_bottom_look_no_select"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/fragment_search"
+        android:title="검색"
+        android:icon="@drawable/ic_bottom_search_no_select"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/fragment_locker"
+        android:title="보관함"
+        android:icon="@drawable/ic_bottom_locker_no_select"
+        app:showAsAction="always"/>
+
+</menu>
